@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42ea74e4fefe813a0dde13ef347a4d7d",
+    "revision": "efb95f134222cc7a5aaf5fc9ae962ae2",
     "url": "/covid19-tracker/index.html"
   },
   {
-    "revision": "5cc069bb4aeee14e7db0",
+    "revision": "975a5dce72931c1037c9",
     "url": "/covid19-tracker/static/css/main.335aa85f.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid19-tracker/static/js/2.0fa6f591.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5cc069bb4aeee14e7db0",
-    "url": "/covid19-tracker/static/js/main.42eeb68b.chunk.js"
+    "revision": "975a5dce72931c1037c9",
+    "url": "/covid19-tracker/static/js/main.6e631e4f.chunk.js"
   },
   {
     "revision": "8cd54aa8f9c07f9dab41",
     "url": "/covid19-tracker/static/js/runtime-main.c8a8ed36.js"
   },
   {
-    "revision": "8f09c5ca0ce0f51dd4afc5f081c9f25f",
-    "url": "/covid19-tracker/static/media/coronavirus-3.8f09c5ca.png"
+    "revision": "2cad3417de4eeaa216e58d6b00237370",
+    "url": "/covid19-tracker/static/media/coronavirus-4.2cad3417.png"
   }
 ]);
